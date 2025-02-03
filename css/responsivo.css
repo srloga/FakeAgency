@@ -1,0 +1,45 @@
+@media screen and (max-width:1223px){
+    .menu{
+        display: none;
+    }
+    .navbar{
+        position: relative;
+    }
+    .logo{
+        margin: 0;
+        text-align: center;
+    }
+    .header{
+        padding-top: 50px;
+    }
+    .headline, .headline2{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .headline p{
+        text-align: center;
+    }
+    .headli{
+        text-align: center;
+        margin-left: 10%;
+    }
+    .img-headline{
+        flex: 100%;
+        margin: 5%;
+        text-align: center;
+    }
+    .card, .card2, .card3, .card4, .card5{
+        width: 100%;
+    }
+    .whats{
+        display: none;
+    }
+    .app-icon, .app-last{
+        display: none;
+    }
+    .card8{
+        text-align: center;
+        margin: 15%;
+    }
+}
