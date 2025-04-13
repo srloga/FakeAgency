@@ -151,7 +151,9 @@ Contribuições não são aceitas pois se trata de um projeto educacional pessoa
 
 ## ✉️ Contato
 Autor: Lucas Vinícius Silvestre Ramos
+
 Curso: Programação WEB - CEAC
+
 Finalizado em: Agosto/2023
 
 ## 📝 Notas Finais
