@@ -125,22 +125,6 @@ start index.html
   }
   ```
 
-## 🛠 Roadmap de Melhorias
-
-### Melhorias Planejadas
-- **Prioridade Alta**
-  - [ ] Adicionar formulário funcional de contato
-  - [ ] Corrigir fechamento automático do menu dropdown
-
-- **Prioridade Média**
-  - [ ] Implementar dark mode
-  - [ ] Otimizar imagem hero para mobile
-
-- **Prioridade Baixa**
-  - [ ] Adicionar animações com SVG
-  - [ ] Expandir sistema de dropdowns
-
-
 ## 📜 Licença
 Projeto educacional desenvolvido por Lucas Vinícius Silvestre Ramos como parte do curso de Programação WEB da CEAC.
 
